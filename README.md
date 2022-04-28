@@ -10,7 +10,9 @@ for the specification.
 
 ### Discussion
 
-Use the *assignment_2* folder in Piazza discussions.  Check to see if your question has already been answered before starting a new topic. Please note that if your question has been answered somewhere else, it may not be answered again.
+Use the *assignment_2* folder in Piazza discussions.  
+
+Check to see if your question has already been answered before starting a new topic. Please note that if your question has been answered somewhere else, it may not be answered again.
 
 ### Using the repository
 
@@ -19,4 +21,4 @@ Use the *assignment_2* folder in Piazza discussions.  Check to see if your quest
 ### FAQ
 The general FAQ for assignments is [here](https://comp.anu.edu.au/courses/comp2420/resources/faq/#assignments_general)
 
-Will be later adding a FAQ for the Assignment 2 if necessary.
+We will be later adding a FAQ for the Assignment 2 if necessary.
