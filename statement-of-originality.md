@@ -16,9 +16,8 @@ Add as many "name+comment" entries as necessary
 ### Collaboration:
 If you have discussed any questions or solutions with other students of the course (COMP2420 & COMP6420), you must note this here. They must also note it in their solution.
 
-  - name: N/A
-    comment:
-      N/A
+  - name: Mingrui Gao(u7261009)
+    comment: We discussed the Q1.2 and he told me how to plot a 3D scatter plot, and we also discussed Q4.1 database design
 
 
 Add as many "url+licence+comment" entries as necessary
@@ -27,8 +26,12 @@ Add as many "url+licence+comment" entries as necessary
 If you copied (or slightly changed) code from a friend or external website (for example), you must reference it here. Even if you change the variable name or slightly change the functions, it must still be referenced here.
 
 
-  - comment: N/A
-    url: N/A
+  - comment: I used codes posted here to solve Q3.1
+    url: https://www.adamsmith.haus/python/answers/how-to-list-tables-using-sqlite3-in-python
+    licence: N/A
+    
+  - comment: I used codes for Elbow method to find the best number of cluster in Q1.2
+    url: https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
     licence: N/A
 
 
@@ -49,5 +52,5 @@ If you use any external sources to increase your understanding of a topic, or to
 
 ## Sign *your* name and uid here.
 
-name1:  
-uid1:
+name1: Yuhan Zhang
+uid1: u7262936
